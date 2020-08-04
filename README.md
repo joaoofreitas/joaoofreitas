@@ -23,8 +23,8 @@ I'm a 🇵🇹 Electronics Student 🤖 with a love-hate relationship with _prog
 </br>
 
 <a>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joaoofreitas&layout=compact&theme="gruvbox" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joaoofreitas&layout=compact&theme="gruvbox" />
 </a>
 
-<a>Contact me: <a href="https://twitter.com/joaoofreitas_"><img alt="João Freitas | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
+<a align="right">Contact me on: </br><a href="https://twitter.com/joaoofreitas_"><img alt="João Freitas | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
 </a>                                                                                                                                             
