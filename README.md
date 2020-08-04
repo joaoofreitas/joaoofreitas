@@ -30,7 +30,4 @@ I also do like Servers and Networking. ☁️ 🌐
 
 <a href="https://github.com/joaoofreitas">
   <img weight="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofreitas&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a align="right">Contact me on: </br><a href="https://twitter.com/joaoofreitas_"><img alt="João Freitas | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
-</a>                                                                                                                                             
+</a>                                                                                                                                  
