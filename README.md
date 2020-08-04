@@ -9,8 +9,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </br>
 
-
-Hi, I'm João Freitas and I'm a Portuguese Electronics Student that loves _programming_.
+I'm a Portuguese Electronics Student with a love-hate relationship with _programming_. So I work with programming since low level to high level.
 </br>
 </br>
 <img align="right" height="185" alt="GIF" src="https://user-images.githubusercontent.com/31630346/89291774-0a338680-d653-11ea-9cbe-8ba7bc405f0a.gif"/>
