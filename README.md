@@ -14,7 +14,7 @@
 </br>
 
 
-I'm a 🇵🇹 Electronics Student 🤖 with a love-hate relationship with _programming_. So I work with programming since low level to high level.
+I'm a 🇵🇹 Electronics Student 🤖 with a _love-hate_ relationship with _programming_. So I work with programming since low level to high level.
 
 I also do like Servers and Networking. ☁️ 🌐
 </br>
