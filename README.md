@@ -3,6 +3,7 @@
 </br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
+![](https://img.shields.io/badge/Shell-zsh-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=fcc624)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=57a143)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ed)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat-square&logo=node.js&logoColor=white&color=339933)
