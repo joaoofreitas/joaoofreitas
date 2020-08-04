@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=f7df1e)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c&logoColor=white&color=00599c)
 
-</div<>
+</div>
 </br>
 
 
