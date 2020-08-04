@@ -2,13 +2,27 @@
 <h3> Hey 👋🏽, I'm <a href="joaoofreitas.antonws.com">João!</a> </h3>
 </br>
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=57a143)
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ed)
+
+![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat-square&logo=node.js&logoColor=white&color=339933)
+
+![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979d)
+
+![](https://img.shields.io/badge/Hardware-Raspberry_Pi-informational?style=flat-square&logo=raspberry-pi&logoColor=white&color=c51a4a)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=3776ab)
+
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=f7df1e)
+
+![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c&logoColor=white&color=00599c)
+
+
+
+
 
 </div>
 </br>
@@ -26,8 +40,8 @@ I also do like Servers and Networking. ☁️ 🌐
 
 </br>
 
-<a>
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joaoofreitas&layout=compact&theme="gruvbox" />
+<a href="https://github.com/joaoofreitas">
+  <img weight="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoofreitas&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a align="right">Contact me on: </br><a href="https://twitter.com/joaoofreitas_"><img alt="João Freitas | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
