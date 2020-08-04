@@ -1,7 +1,8 @@
-### Hey 👋🏽, I'm [João!](https://joaoofreitas.antonws.com)
+<div align="center">
+<h3> Hey 👋🏽, I'm <a href="joaoofreitas.antonws.com">João!</a> </h3>
 </br>
 
-<div align="center">
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
