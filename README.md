@@ -13,6 +13,8 @@
 
 
 I'm a 🇵🇹 Electronics Student 🤖 with a love-hate relationship with _programming_. So I work with programming since low level to high level.
+
+I also do like Servers and Networking. ☁️🌐
 </br>
 </br>
 <img align="right" height="185" alt="GIF" src="https://user-images.githubusercontent.com/31630346/89291774-0a338680-d653-11ea-9cbe-8ba7bc405f0a.gif"/>
