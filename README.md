@@ -16,4 +16,4 @@ I'm always learning and improving overtime, I'm learning [rust](https://github.c
 I will be glad to help you in anything you need. From coding to testing, just let me know what you need.
 For that, contact me:
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31630346/89291774-0a338680-d653-11ea-9cbe-8ba7bc405f0a.gif" />
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/31630346/89291774-0a338680-d653-11ea-9cbe-8ba7bc405f0a.gif" />
