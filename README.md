@@ -8,8 +8,10 @@
 </br>
 
 
-Hi, I'm João Freitas and I am currently working on a electronically controlled split-flaps display @ Interactive Technologies Institute. Has it is a private research project, for now the repository will remain private.
-I'm always learning and improving overtime, I'm learning [rust](https://github.com/rust-lang/rust) and [go](https://github.com/golang/go) on my __free time__.
-I will be glad to help you in anything you need. From coding to testing, just let me know what you need.
+Hi, I'm João Freitas and I'm a Portuguese Electronics Student that loves _programming_.
+
+- I am currently working on a electronically controlled split-flaps display @ Interactive Technologies Institute. Has it is a private research project, for now the repository will remain private.
+- I'm always learning and improving overtime, I'm learning [rust](https://github.com/rust-lang/rust) and [go](https://github.com/golang/go) on my __free time__.
+- I will be glad to help you in anything you need. From coding to testing, just let me know what you need.
 For that, contact me: <img align="left" height="120" alt="GIF" src="https://user-images.githubusercontent.com/31630346/89291774-0a338680-d653-11ea-9cbe-8ba7bc405f0a.gif" />
 
