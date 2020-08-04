@@ -11,6 +11,7 @@
 </div>
 </br>
 
+
 I'm a 🇵🇹 Electronics Student 🤖 with a love-hate relationship with _programming_. So I work with programming since low level to high level.
 </br>
 </br>
