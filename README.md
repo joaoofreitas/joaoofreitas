@@ -3,28 +3,16 @@
 </br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
-
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=57a143)
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ed)
-
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat-square&logo=node.js&logoColor=white&color=339933)
-
 ![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979d)
-
 ![](https://img.shields.io/badge/Hardware-Raspberry_Pi-informational?style=flat-square&logo=raspberry-pi&logoColor=white&color=c51a4a)
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=3776ab)
-
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=f7df1e)
-
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c&logoColor=white&color=00599c)
 
-
-
-
-
-</div>
+</div<>
 </br>
 
 
