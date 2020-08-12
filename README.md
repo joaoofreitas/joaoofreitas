@@ -2,6 +2,8 @@
 <h3> Hey 👋🏽, I'm <a href="joaoofreitas.antonws.com">João!</a> </h3>
 </br>
 
+<img align="center" src="https://user-images.githubusercontent.com/31630346/90038858-ce856600-dcbd-11ea-8df1-3e460043b663.png"/>
+<!---
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a42e2b)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=57a143)
@@ -12,7 +14,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=3776ab)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=f7df1e)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c&logoColor=white&color=00599c)
-
+------>
 </div>
 </br>
 
