@@ -2,7 +2,7 @@
 <h3> Hey 👋🏽, I'm <a href="joaoofreitas.antonws.com">João!</a> </h3>
 </br>
 
-<img align="center" src="https://user-images.githubusercontent.com/31630346/90038858-ce856600-dcbd-11ea-8df1-3e460043b663.png"/>
+<img align="center" src="https://user-images.githubusercontent.com/31630346/90116593-9c234980-dd4d-11ea-8c1d-d52401b8587a.png"/>
 <!---
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a42e2b)
