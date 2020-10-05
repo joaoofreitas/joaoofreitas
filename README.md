@@ -2,8 +2,10 @@
 <h3> Hey 👋🏽, I'm <a href="joaoofreitas.antonws.com">João!</a> </h3>
 </br>
 
+<!----
 <img align="center" src="https://user-images.githubusercontent.com/31630346/90116593-9c234980-dd4d-11ea-8c1d-d52401b8587a.png"/>
-<!---
+<---
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a42e2b)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=57a143)
@@ -14,7 +16,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=3776ab)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=f7df1e)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c&logoColor=white&color=00599c)
------->
 </div>
 </br>
 
@@ -25,7 +26,6 @@ I also like Server Management and Networking. ☁️ 🌐
 </br>
 </br>
 <img align="right" height="185" alt="GIF" src="https://user-images.githubusercontent.com/31630346/89291774-0a338680-d653-11ea-9cbe-8ba7bc405f0a.gif"/>
-- 📟 I am currently working on an electronically controlled split-flaps display __@__ Interactive Technologies Institute. As it is a private research project, for now the repository will remain private. 
 - 💻 I'm always learning and improving overtime, I'm learning [rust](https://github.com/rust-lang/rust) and [go](https://github.com/golang/go) on my __free time__. 
 - 🧪 I will be glad to help you in anything you need, from coding to testing, just let me know what you need. 
 
