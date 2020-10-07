@@ -19,14 +19,19 @@
 </div>
 </br>
 
+I'm a Portuguese 🇵🇹 Computer Science student with two degrees in electronics.
 
-I'm an 🇵🇹 Electronics Student 🤖 with a _love-hate_ relationship with _programming_. I work with programming from low to high level.
+People that I work with say I'm talented. I call it hard work and sweat.
 
-I also like Server Management and Networking. ☁️ 🌐
+Started programming in 2016 with C++ applied to ATMega microcontrollers. Since there, I've been learning more languages and frameworks to develop my skills in this field.
+
+I've worked as a Software/Hardware developer in two companies, being one of them a research institute in Portugal.
+
+I always find to help people developing their projects and even try to contribute and use open-source as much as possible.
 </br>
 </br>
 <img align="right" height="185" alt="GIF" src="https://user-images.githubusercontent.com/31630346/89291774-0a338680-d653-11ea-9cbe-8ba7bc405f0a.gif"/>
-- 💻 I'm always learning and improving overtime, I'm learning [rust](https://github.com/rust-lang/rust) and [go](https://github.com/golang/go) on my __free time__. 
+- 💻 I'm always learning and improving overtime, [go](https://github.com/golang/go) and [java](https://www.java.com) on my __free time__. 
 - 🧪 I will be glad to help you in anything you need, from coding to testing, just let me know what you need. 
 
 </br>
