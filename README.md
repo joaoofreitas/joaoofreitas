@@ -5,11 +5,6 @@
 <!----
 <img align="center" src="https://user-images.githubusercontent.com/31630346/90116593-9c234980-dd4d-11ea-8c1d-d52401b8587a.png"/>
 ---->
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=fcc624)
-![](https://img.shields.io/badge/Shell-zsh-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a42e2b)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=57a143)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ed)
 </div>
 </br>
 
@@ -17,12 +12,14 @@ I'm a Portuguese 🇵🇹 Computer Science student with two degrees in electroni
 
 People that I work with say I'm talented. I call it hard work and sweat.
 
-Started programming in 2016 with C++ applied to ATMega microcontrollers. Since there, I've been learning more languages and frameworks to develop my skills in this field.
+Started programming in 2016 with C++ applied to ATMega microcontrollers. Since there, I've been learning more languages and frameworks to develop my skills in this field. 
 
 I've worked as a Software/Hardware developer in two companies, being one of them a research institute in Portugal.
 
+Right now I'm working as an Applications Engineer at Unipartner Portugal.
+
 I always find to help people developing their projects and even try to contribute and use open-source as much as possible.
-</br>
+
 </br>
 <img align="right" height="185" alt="GIF" src="https://user-images.githubusercontent.com/31630346/89291774-0a338680-d653-11ea-9cbe-8ba7bc405f0a.gif"/>
 - 💻 I'm always learning and improving overtime, learning [go](https://github.com/golang/go), [java](https://www.java.com) and [.net](https://dotnet.microsoft.com/) on my __free time__. 
