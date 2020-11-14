@@ -4,9 +4,14 @@
 
 <!----
 <img align="center" src="https://user-images.githubusercontent.com/31630346/90116593-9c234980-dd4d-11ea-8c1d-d52401b8587a.png"/>
+https://user-images.githubusercontent.com/31630346/99154991-185e5d80-26ac-11eb-81ee-dbc1073db77a.png
 ---->
 </div>
 </br>
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/31630346/99154991-185e5d80-26ac-11eb-81ee-dbc1073db77a.png" />
+
+
 
 I'm a Portuguese 🇵🇹 Computer Science student with two degrees in electronics.
 
@@ -21,7 +26,7 @@ Right now I'm working as an Applications Engineer at Unipartner Portugal.
 I always find to help people developing their projects and even try to contribute and use open-source as much as possible.
 
 </br>
-<img align="right" height="185" alt="GIF" src="https://user-images.githubusercontent.com/31630346/89291774-0a338680-d653-11ea-9cbe-8ba7bc405f0a.gif"/>
+
 
 - 💻 I'm always learning and improving overtime, learning [go](https://github.com/golang/go), [java](https://www.java.com) and [.net](https://dotnet.microsoft.com/) on my __free time__. 
 - 🧪 I will be glad to help you with anything you need, from coding to testing, just let me know what you need. 
