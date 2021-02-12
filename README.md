@@ -28,7 +28,7 @@ I always find to help people developing their projects and even try to contribut
 </br>
 
 
-- 💻 I'm always learning and improving overtime, learning [go](https://github.com/golang/go), [java](https://www.java.com) and [.net](https://dotnet.microsoft.com/) on my __free time__. 
+- 💻 I'm always learning and improving overtime.
 - 🧪 I will be glad to help you with anything you need, from coding to testing, just let me know what you need. 
 
 </br>
