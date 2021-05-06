@@ -9,8 +9,9 @@ https://user-images.githubusercontent.com/31630346/99154991-185e5d80-26ac-11eb-8
 </div>
 </br>
 
+<!----
 <img align="right" width="150" src="https://user-images.githubusercontent.com/31630346/99154991-185e5d80-26ac-11eb-81ee-dbc1073db77a.png" />
-
+----->
 
 
 I'm a Portuguese 🇵🇹 Computer Science student with two degrees in electronics.
